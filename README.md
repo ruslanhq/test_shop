@@ -26,7 +26,7 @@ make up
 
 ## Endpoints
 
-The Orders App provides the following endpoints:
+The TestShop App provides the following endpoints:
 
 1. **POST api/registration/**: Register user.
 2. **POST api/login/**: Login user (get jwt tokens).
